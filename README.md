@@ -1,1 +1,2 @@
 # android-jizhanWeather
+这是关于基站定位获取天气的一个Android小demo
